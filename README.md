@@ -28,6 +28,8 @@
     <img src="https://img.shields.io/badge/Mobile-REDMI%20K40S-E61919?style=flat-square&logo=android&logoColor=white" />
     &nbsp;
     <img src="https://img.shields.io/badge/Laptop-Lenovo%20Xiaoxin%20Air%2014-004482?style=flat-square&logo=lenovo&logoColor=white" />
+    &nbsp;
+    <img src="https://shields.io/badge/OnePlus 13-000000.svg?style=flat-square&logo=OnePlus" />
   </p>
   
   ## ✨ Total Visits
