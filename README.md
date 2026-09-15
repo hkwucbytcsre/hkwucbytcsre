@@ -32,7 +32,7 @@
   
   ## ✨ Total Visits
   <p align="center">
-    <img src="https://count.getloli.com/@hkwucbytcsre?name=hkwucbytcsre&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/hkwucbytcsre)" />
+    <img src="https://count.getloli.com/@hkwucbytcsre?name=hkwucbytcsre&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
   </p>
 
 </div>
